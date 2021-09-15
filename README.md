@@ -22,7 +22,7 @@ To-do list:
 
 ## Getting Started
    
-git remote and origin https://github.com/prasadmld/project1.git
+git remote and origin https://github.com/vasudevareddy214/Online-Grocery-Store-System.git
 
 
 > Compile and run java code for the server and DB connection
